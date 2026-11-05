@@ -28,3 +28,4 @@ langchain-classic==1.0.8
 langchain-community==0.4.2
 langchain-core==1.7.6
 langchain-google-genai==4.4.3
+rich>=13.7.0
